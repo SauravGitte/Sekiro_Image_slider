@@ -4,7 +4,7 @@ A 3D image slider showcasing images from the game "Sekiro: Shadows Die Twice." T
 
 ## Live Demo
 
-View the live demo [here](https://sauravgitte.github.io/Sekiro_Image_slider/).
+View the live demo [here](https://sauravgitte.github.io/Sekiro_Image_slider/index.html).
 
 ## Features
 
